@@ -28,10 +28,10 @@ const Results: React.FC = () => {
   };
 
   return (
-    <div className="w-full flex justify-center items-center font-Inter text-white gap-5">
+    <div className="w-full md:flex justify-center items-center font-Inter text-white gap-5">
       <div className="w-full md:w-1/2 ">
         <h2 className="text-xl font-bold p-5 mb-4 text-center">Quiz Results</h2>
-        <div className='flex justify-between'>
+        <div className='flex justify-between px-5'>
           <p>Name : {details.name}</p>
           <p>Email : {details.email}</p>
         </div>

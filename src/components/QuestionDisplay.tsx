@@ -102,7 +102,7 @@ const QuestionDisplay: React.FC<QuizProps> = ({ questions, hours, minutes, secon
         <p className="text-lg font-bold">Time Left: {formatTime()}</p>
       </div>
 
-      <div className="md:w-1/2 flex flex-col justify-center">
+      <div className="w-11/12 md:w-1/2 flex flex-col justify-center">
         {questions.map((question, questionIndex) => (
           <div key={questionIndex} className="mb-6 p-4 bg-gray-100 rounded-lg shadow-lg">
             <p className="text-black text-lg font-semibold mb-4">
