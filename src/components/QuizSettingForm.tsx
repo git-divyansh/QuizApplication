@@ -89,6 +89,8 @@ const QuizSettingsForm = ({ onSubmit } : {
         >
           Submit
         </button>
+
+        <p className="text-center md:text-xl">Submit the quiz sitting form before proceeding !!</p>
       </form>
     </div>
   );
