@@ -39,14 +39,14 @@ This is a fully functional quiz application built using React.js. The applicatio
 
 ### Image Examples
 
-[](/public/images/1.png)
+![](https://github.com/git-divyansh/QuizApplication/tree/main/public/images/public/images/1.png)
 
-[](/public/images/2.png)
+![](https://github.com/git-divyansh/QuizApplication/tree/main/public/images/public/images/2.png)
 
-[](/public/images/3.png)
+![](https://github.com/git-divyansh/QuizApplication/tree/main/public/images/public/images/3.png)
 
-[](/public/images/5.png)
+![](https://github.com/git-divyansh/QuizApplication/tree/main/public/images/public/images/5.png)
 
-[](/public/images/6.png)
+![](https://github.com/git-divyansh/QuizApplication/tree/main/public/images/public/images/6.png)
 
 
