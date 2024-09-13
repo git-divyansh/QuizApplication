@@ -24,6 +24,8 @@ const QuizSettingsForm = ({ onSubmit } : {
         alert("Select marks per question");
         return;
     }
+
+    alert("Settings set!");
     const obj : QuizSettingsProps = { hours, minutes, seconds, marksPerQuestion };
     onSubmit(obj);
 
